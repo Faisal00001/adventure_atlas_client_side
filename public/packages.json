@@ -1,0 +1,85 @@
+{
+    {
+        "image": "https://i.ibb.co/SPKJv4q/desert.jpg",
+        "tourType": "Adventure",
+        "tripTitle": "Desert Trek",
+        "price": "$450",
+        "packageDetails": "Experience the vastness of the desert on an exhilarating trek, discovering hidden oases and mesmerizing landscapes."
+    }
+{
+        "image": "https://i.ibb.co/0MpxLcS/jungle-Explore.jpg",
+        "tourType": "Adventure",
+        "tripTitle": "Jungle Expedition",
+        "price": "$550",
+        "packageDetails": "Embark on a thrilling jungle expedition, encountering diverse flora and fauna in their natural habitat."
+    }
+{
+        "image": "https://i.ibb.co/Y0vjD3X/local-Festivals.jpg",
+        "tourType": "Cultural",
+        "tripTitle": "Local Festivals Experience",
+        "price": "$250",
+        "packageDetails": "Participate in vibrant local festivals, immersing yourself in the cultural celebrations and traditions of the region."
+    }
+{
+        "image": "https://i.ibb.co/cTK47Qb/Gastronomic-Journey.jpg",
+        "tourType": "Cultural",
+        "tripTitle": "Gastronomic Journey",
+        "price": "$400",
+        "packageDetails": "Embark on a culinary adventure, savoring local delicacies and exploring the diverse flavors of the region."
+    }
+{
+        "image": "https://i.ibb.co/SszKMRC/Sunset-Retreat.jpg",
+        "tourType": "Beach",
+        "tripTitle": "Sunset Retreat",
+        "price": "$600",
+        "packageDetails": "Unwind on golden shores, experience breathtaking sunsets, and indulge in water sports on this beach retreat."
+    }
+{
+        "image": "https://i.ibb.co/pLJdRFR/surfing.jpg",
+        "tourType": "Beach",
+        "tripTitle": "Surfing Adventure",
+        "price": "$550",
+        "packageDetails": "Ride the waves and experience the thrill of surfing in some of the world's most renowned beach destinations."
+    }
+{
+        "image": "https://i.ibb.co/W5VjnKj/Rainforest-Expedition.jpg",
+        "tourType": "Wildlife Safari",
+        "tripTitle": "Rainforest Expedition",
+        "price": "$700",
+        "packageDetails": "Embark on a wildlife safari through lush rainforests, encountering diverse flora and fauna in their natural habitat."
+    }
+{
+        "image": "https://i.ibb.co/gwJW9cy/Birdwatcher-s-Paradise.jpg",
+        "tourType": "Wildlife Safari",
+        "tripTitle": "Birdwatcher's Paradise",
+        "price": "$500",
+        "packageDetails": "Explore bird-rich habitats and witness a myriad of species in this immersive birdwatching safari adventure."
+    }
+{
+        "image": "https://i.ibb.co/HD6T8wT/Architectural-Marvels-Tour.jpg",
+        "tourType": "City Exploration",
+        "tripTitle": "Architectural Marvels Tour",
+        "price": "$450",
+        "packageDetails": "Explore the architectural wonders of bustling cities, from modern skyscrapers to historic landmarks."
+    }
+{
+        "image": "https://i.ibb.co/NF2tbx1/Nightlife-Extravaganza.jpg",
+        "tourType": "City Exploration",
+        "tripTitle": "Nightlife Extravaganza",
+        "price": "$500",
+        "packageDetails": "Experience the vibrant nightlife of iconic cities, from trendy bars to electrifying nightclubs and cultural events."
+    }
+{
+        "image": "https://i.ibb.co/0tJzyY9/2150785272.jpg",
+        "tourType": "Cruise",
+        "tripTitle": "Northern Lights Expedition",
+        "price": "$1,200",
+        "packageDetails": "Embark on a magical cruise to witness the spectacular Northern Lights, with luxurious accommodations and guided excursions."
+    }
+{
+        "image": "https://i.ibb.co/Ch8rnkx/side-view-breakfast-with-baked-grape-omelette-white-plate-balc-ony-by-sea.jpg",
+        "tourType": "Cruise",
+        "tripTitle": "Mediterranean Delight Cruise",
+        "price": "$900",
+        "packageDetails": "Sail through the enchanting Mediterranean, exploring historic ports and enjoying the Mediterranean cuisine and culture."
+    }

@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Alice Johnson",
+        "experience": "10 years",
+        "languages": [
+            "English",
+            "Spanish",
+            "French"
+        ],
+        "specialties": [
+            "Historical Tours",
+            "Cultural Experiences"
+        ],
+        "rating": 4.8,
+        "availability": "Full-time",
+        "image": "https://i.ibb.co/qJsgCmT/alice.jpg"
+    },
+    {
+        "name": "David Smith",
+        "experience": "8 years",
+        "languages": [
+            "English",
+            "German",
+            "Italian"
+        ],
+        "specialties": [
+            "Adventure Tours",
+            "Wildlife Safari"
+        ],
+        "rating": 4.5,
+        "availability": "Part-time",
+        "image": "https://i.ibb.co/1mKtCFF/david.jpg"
+    },
+    {
+        "name": "Maria Rodriguez",
+        "experience": "12 years",
+        "languages": [
+            "English",
+            "Spanish",
+            "Portuguese"
+        ],
+        "specialties": [
+            "Beach Retreats",
+            "City Exploration"
+        ],
+        "rating": 4.9,
+        "availability": "Full-time",
+        "image": "https://i.ibb.co/sRm560H/maria.jpg"
+    },
+    {
+        "name": "John Lee",
+        "experience": "6 years",
+        "languages": [
+            "English",
+            "Mandarin",
+            "Japanese"
+        ],
+        "specialties": [
+            "Cruise Adventures",
+            "Island Hopping"
+        ],
+        "rating": 4.7,
+        "availability": "Full-time",
+        "image": "https://i.ibb.co/D4WvRbr/jhon.jpg"
+    },
+    {
+        "name": "Elena Costa",
+        "experience": "9 years",
+        "languages": [
+            "English",
+            "Italian",
+            "Spanish"
+        ],
+        "specialties": [
+            "Mountain Expeditions",
+            "Nature Walks"
+        ],
+        "rating": 4.6,
+        "availability": "Part-time",
+        "image": "https://i.ibb.co/p0GmcTW/elena.jpg"
+    },
+    {
+        "name": "Samuel Ngugi",
+        "experience": "7 years",
+        "languages": [
+            "English",
+            "Swahili",
+            "French"
+        ],
+        "specialties": [
+            "Cultural Heritage",
+            "Local Cuisine"
+        ],
+        "rating": 4.8,
+        "availability": "Full-time",
+        "image": "https://i.ibb.co/QFXdnKT/samuel.jpg"
+    }
+]

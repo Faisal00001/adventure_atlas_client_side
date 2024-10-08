@@ -1,0 +1,578 @@
+[
+    {
+        "image": "https://i.ibb.co/fYHcB1n/mountain.jpg",
+        "tourType": "Adventure",
+        "tripTitle": "Mountain Expedition",
+        "price": "$500",
+        "packageDetails": "Explore the breathtaking mountains and enjoy an adventurous trekking experience.",
+        "gallery": [
+            "https://i.ibb.co/ykVQWpN/mountain1.jpg",
+            "https://i.ibb.co/6tJVB6Y/mountain2.jpg",
+            "https://i.ibb.co/k17XSGm/mountain3.jpg",
+            "https://i.ibb.co/vsT9fy5/mountain4.jpg",
+            "https://i.ibb.co/QnCrsJk/mountain5.jpg"
+        ],
+        "aboutTheTour": "Discover the thrill of high-altitude trekking as you navigate through stunning mountain landscapes. Our Mountain Expedition package offers a perfect blend of adventure and tranquility.",
+        "tourPlan": [
+            {
+                "day": 1,
+                "activity": "Arrival and orientation",
+                "description": "Upon arrival, get acquainted with your fellow adventurers and receive an orientation about the upcoming trek. Enjoy a relaxing evening."
+            },
+            {
+                "day": 2,
+                "activity": "Acclimatization hike",
+                "description": "Embark on an acclimatization hike to prepare for higher altitudes. Marvel at the scenic beauty and acclimate your body."
+            },
+            {
+                "day": 3,
+                "activity": "Summit trek",
+                "description": "The highlight of the expedition! Trek to the summit, conquering challenging terrains. Witness breathtaking panoramic views."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/hZL57GT/paradise2.jpg",
+        "tourType": "Beach",
+        "tripTitle": "Tropical Paradise Getaway",
+        "price": "700",
+        "packageDetails": "Indulge in the ultimate tropical paradise getaway, where sun-kissed beaches and crystal-clear waters await. Escape the everyday hustle and bustle as you relax on pristine shores, feeling the soft sand beneath your feet. This package offers a perfect blend of leisure and adventure, with water activities such as snorkeling, kayaking, and beachside relaxation. Immerse yourself in the vibrant local culture, savoring delicious cuisine and enjoying the laid-back island vibes. With luxurious accommodations and personalized service, this tropical retreat promises an idyllic escape, creating memories that will linger long after the sun sets on each breathtaking day.",
+        "gallery": [
+            "https://i.ibb.co/Ns1MdrX/Tropical-Paradise1.jpg",
+            "https://i.ibb.co/cxw4jBT/Tropical-Paradise2.jpg",
+            "https://i.ibb.co/Gcrj6CN/Tropical-Paradise3.jpg",
+            "https://i.ibb.co/9sz91Vh/Tropical-Paradise4.jpg",
+            "https://i.ibb.co/q9CpBZ5/Tropical-Paradise5.jpg"
+        ],
+        "aboutTheTour": "Embark on the ultimate Tropical Paradise Getaway, where every moment is designed for relaxation and adventure. This beach retreat offers a haven of tranquility with luxurious accommodations and a range of exciting activities.",
+        "tourPlan": [
+            {
+                "day": 1,
+                "activity": "Arrival and beach orientation",
+                "description": "Upon arrival, unwind with a beach orientation and introduction to the available activities."
+            },
+            {
+                "day": 2,
+                "activity": "Water adventures",
+                "description": "Experience thrilling water activities such as snorkeling and kayaking. Enjoy the clear blue waters and vibrant marine life."
+            },
+            {
+                "day": 3,
+                "activity": "Beachside relaxation",
+                "description": "Spend a leisurely day on the beach, soaking up the sun, and indulging in beachside relaxation."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/sm1g3gZ/Architectural-Marvels-Tour.jpg",
+        "tourType": "City Exploration",
+        "tripTitle": "Architectural Marvels Tour",
+        "price": "$450",
+        "packageDetails": "Explore the architectural wonders of bustling cities, from modern skyscrapers to historic landmarks.",
+        "gallery": [
+            "https://i.ibb.co/6ZjnKhY/Architectural-Marvels-Tour1.jpg",
+            "https://i.ibb.co/259B27L/Architectural-Marvels-Tour2.jpg",
+            "https://i.ibb.co/b6T4KhW/Architectural-Marvels-Tour3.jpg",
+            "https://i.ibb.co/k9nBRF6/Architectural-Marvels-Tour4.jpg",
+            "https://i.ibb.co/cT8kbV7/Architectural-Marvels-Tour5.jpg"
+        ],
+        "aboutTheTour": "Embark on the Architectural Marvels Tour, a journey through the heart of bustling cities. Discover the captivating stories behind iconic landmarks and marvel at the blend of modern and historic architecture.",
+        "tourPlan": [
+            {
+                "day": 1,
+                "activity": "Arrival and city orientation",
+                "description": "Upon arrival, get introduced to the city's architectural highlights and receive an orientation about the upcoming exploration."
+            },
+            {
+                "day": 2,
+                "activity": "Skyscraper tour",
+                "description": "Explore modern skyscrapers, learning about their design and significance in the city's skyline."
+            },
+            {
+                "day": 3,
+                "activity": "Historic landmarks",
+                "description": "Visit historic landmarks and heritage sites, unraveling the stories of the city's past."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/v3S6TkD/savanah.jpg",
+        "tourType": "Wildlife Safari",
+        "tripTitle": "Savannah Adventure",
+        "price": "$600",
+        "packageDetails": "Embark on a thrilling wildlife safari, venturing into the heart of the savannah to witness the incredible diversity of Africa's flora and fauna. Traverse vast landscapes and encounter majestic creatures in their natural habitat. From the iconic Big Five to exotic bird species, every moment is a wildlife enthusiast's dream come true. Our experienced guides provide insightful commentary, enhancing your understanding of the intricate ecosystems at play. Enjoy comfortable lodgings, delectable cuisine, and the magic of starlit nights in the wilderness. This safari adventure is a once-in-a-lifetime opportunity to connect with nature and witness the untamed beauty of the African savannah.",
+        "gallery": [
+            "https://i.ibb.co/dDVbbDr/Savannah-Adventure1.jpg",
+            "https://i.ibb.co/9YCjgyd/Savannah-Adventure2.jpg",
+            "https://i.ibb.co/8NTLDvh/Savannah-Adventure3.jpg",
+            "https://i.ibb.co/VpNzhrd/Savannah-Adventure4.jpg",
+            "https://i.ibb.co/8PfjGJ6/Savannah-Adventure5.jpg"
+        ],
+        "aboutTheTour": "Experience the thrill of the Savannah Adventure, a wildlife safari that promises unforgettable encounters with Africa's most iconic creatures. Immerse yourself in the magic of the savannah, where every sunrise brings new opportunities for discovery.",
+        "tourPlan": [
+            {
+                "day": 1,
+                "activity": "Arrival and safari briefing",
+                "description": "Upon arrival, receive a comprehensive briefing about the safari adventure and get acquainted with the safari guides."
+            },
+            {
+                "day": 2,
+                "activity": "Game drives and wildlife encounters",
+                "description": "Embark on exhilarating game drives, witnessing the diverse wildlife of the savannah. Encounter the Big Five and other fascinating species."
+            },
+            {
+                "day": 3,
+                "activity": "Guided nature walks",
+                "description": "Explore the savannah on foot with experienced guides, delving into the details of the ecosystem and observing smaller wildlife."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/LrzvQZ6/heritage.jpg",
+        "tourType": "Cultural",
+        "tripTitle": "Historical Heritage Tour",
+        "price": "$300",
+        "packageDetails": "Embark on a cultural odyssey with our Historical Heritage Tour. Immerse yourself in the enchanting tales of ancient civilizations as you explore historic landmarks and UNESCO World Heritage sites. From majestic castles to ancient ruins, each step is a journey through time. Our expert guides will regale you with fascinating stories and provide insights into the rich cultural tapestry of each location. Enjoy comfortable accommodations, culinary delights, and the chance to witness living history. This tour is perfect for history enthusiasts and anyone seeking a profound cultural experience that transcends the pages of textbooks.",
+        "gallery": [
+            "https://i.ibb.co/0fYY5mP/Historical-Heritage1.jpg",
+            "https://i.ibb.co/SKbJytK/Historical-Heritage2.jpg",
+            "https://i.ibb.co/TTRf3mn/Historical-Heritage13.jpg",
+            "https://i.ibb.co/DfbbxbT/Historical-Heritage4.jpg",
+            "https://i.ibb.co/HGVtryc/Historical-Heritage5.jpg"
+        ],
+        "aboutTheTour": "Step into the past with our Historical Heritage Tour, where each destination is a living testament to the richness of human history. Immerse yourself in the cultural marvels of ancient civilizations and gain a deeper understanding of the world's diverse heritage.",
+        "tourPlan": [
+            {
+                "day": 1,
+                "activity": "Arrival and cultural orientation",
+                "description": "Upon arrival, receive an orientation about the cultural journey ahead. Begin exploring the local culture."
+            },
+            {
+                "day": 2,
+                "activity": "Visit UNESCO World Heritage sites",
+                "description": "Explore renowned UNESCO World Heritage sites, delving into the architectural and cultural significance of each location."
+            },
+            {
+                "day": 3,
+                "activity": "Guided museum tours",
+                "description": "Embark on guided tours of museums, gaining insights into the artifacts and historical treasures housed within."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/3zPLD87/urban.jpg",
+        "tourType": "City Exploration",
+        "tripTitle": "Urban Discovery",
+        "price": "$400",
+        "packageDetails": "Embark on an exhilarating city exploration, where the vibrant energy of urban life meets the allure of iconic landmarks. This package invites you to discover the hidden gems and cultural wonders of dynamic cities. From towering skyscrapers to historic districts, each corner tells a unique story. Our expert guides will lead you through bustling markets, art galleries, and culinary hotspots, providing insights into the local way of life. Enjoy comfortable accommodations, exciting city tours, and the freedom to customize your urban adventure. Whether you're a culture connoisseur or a casual explorer, this package promises an unforgettable journey through the beating heart of each city.",
+        "gallery": [
+            "https://i.ibb.co/hgdRxPx/Urban-Discovery1.jpg",
+            "https://i.ibb.co/6mXqH8z/Urban-Discovery2.jpg",
+            "https://i.ibb.co/Pz4fDPG/Urban-Discovery3.jpg",
+            "https://i.ibb.co/qk8r5q3/Urban-Discovery4.jpg",
+            "https://i.ibb.co/TgDJz8v/Urban-Discovery5.jpg"
+        ],
+        "aboutTheTour": "Immerse yourself in the pulse of city life with our Urban Discovery package. From iconic landmarks to hidden treasures, experience the dynamic blend of culture, history, and modernity in each city.",
+        "tourPlan": [
+            {
+                "day": 1,
+                "activity": "Arrival and city orientation",
+                "description": "Upon arrival, receive an orientation about the city's layout and major attractions. Begin exploring the local neighborhoods."
+            },
+            {
+                "day": 2,
+                "activity": "Landmark tours",
+                "description": "Embark on guided tours of iconic landmarks, delving into their historical significance and architectural marvels."
+            },
+            {
+                "day": 3,
+                "activity": "Cultural districts exploration",
+                "description": "Explore vibrant cultural districts, from art galleries to performance spaces, capturing the essence of the local arts scene."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/RhSJ5tR/cruise.jpg",
+        "tourType": "Cruise",
+        "tripTitle": "Island Hopping Cruise",
+        "price": "$800",
+        "packageDetails": "Embark on a luxurious island hopping cruise, where azure waters and pristine beaches await. This package offers a seamless blend of relaxation and exploration as you sail through breathtaking coastal landscapes. From secluded coves to vibrant port towns, each destination promises a unique island experience. Enjoy the comfort of a cruise ship equipped with world-class amenities, gourmet dining, and entertainment. Participate in shore excursions, water activities, and cultural immersions at each stop. Whether you're seeking a romantic getaway or an adventure with friends, this island hopping cruise ensures a rejuvenating escape surrounded by the beauty of the open sea and tropical paradises.",
+        "gallery": [
+            "https://i.ibb.co/CvzYymm/Island1.jpg",
+            "https://i.ibb.co/dQq96TC/Island2.jpg",
+            "https://i.ibb.co/Hx1XmcG/Island3.jpg",
+            "https://i.ibb.co/6rzCVfZ/Island4.jpg",
+            "https://i.ibb.co/XpkqRb6/Island5.jpg"
+        ],
+        "aboutTheTour": "Indulge in the epitome of luxury with our Island Hopping Cruise. Experience the enchanting beauty of coastal landscapes, pristine beaches, and vibrant port towns.",
+        "tourPlan": [
+            {
+                "day": 1,
+                "activity": "Boarding and cruise orientation",
+                "description": "Board the cruise ship and get acquainted with the onboard facilities. Receive an orientation about the upcoming island-hopping adventure."
+            },
+            {
+                "day": 2,
+                "activity": "Island exploration",
+                "description": "Visit the first island on the itinerary, exploring its unique attractions, beaches, and local culture."
+            },
+            {
+                "day": 3,
+                "activity": "Shore excursions",
+                "description": "Participate in guided shore excursions at select stops, discovering the hidden gems and cultural richness of each destination."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/0MpxLcS/jungle-Explore.jpg",
+        "tourType": "Adventure",
+        "tripTitle": "Jungle Expedition",
+        "price": "$550",
+        "packageDetails": "Embark on a thrilling jungle expedition, encountering diverse flora and fauna in their natural habitat.",
+        "gallery": [
+            "https://i.ibb.co/zFVp1Ds/Jungle-Expedition1.jpg",
+            "https://i.ibb.co/dK65jQc/Jungle-Expedition2.jpg",
+            "https://i.ibb.co/xFNn2CK/Jungle-Expedition3.jpg",
+            "https://i.ibb.co/vVMx3k5/Jungle-Expedition4.jpg",
+            "https://i.ibb.co/LSV55LT/Jungle-Expedition5.jpg"
+        ],
+        "aboutTheTour": "Discover the wonders of the jungle with our Adventure Jungle Expedition. Immerse yourself in the heart of nature and witness the incredible biodiversity of the jungle.",
+        "tourPlan": [
+            {
+                "day": 1,
+                "activity": "Arrival and jungle orientation",
+                "description": "Upon arrival, get oriented with the jungle surroundings and receive an introduction to the upcoming adventure."
+            },
+            {
+                "day": 2,
+                "activity": "Jungle trekking",
+                "description": "Embark on a guided trek through the jungle, discovering hidden trails and encountering diverse plant and animal species."
+            },
+            {
+                "day": 3,
+                "activity": "Wildlife observation",
+                "description": "Spend a day observing wildlife in their natural habitat, guided by experienced naturalists."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/SPKJv4q/desert.jpg",
+        "tourType": "Adventure",
+        "tripTitle": "Desert Trek",
+        "price": "$450",
+        "packageDetails": "Experience the vastness of the desert on an exhilarating trek, discovering hidden oases and mesmerizing landscapes.",
+        "gallery": [
+            "https://i.ibb.co/LhtXXLr/Desert1.jpg",
+            "https://i.ibb.co/4Yw8SF1/Desert2.jpg",
+            "https://i.ibb.co/QXKJBVy/Desert3.jpg",
+            "https://i.ibb.co/myCJS9Y/Desert4.jpg",
+            "https://i.ibb.co/N2jqLVS/Desert5.jpg"
+        ],
+        "aboutTheTour": "Embark on a unique adventure with our Desert Trek package. Immerse yourself in the serene beauty of the desert, where every step reveals a new facet of this awe-inspiring landscape.",
+        "tourPlan": [
+            {
+                "day": 1,
+                "activity": "Arrival and desert orientation",
+                "description": "Upon arrival, get acquainted with the desert environment and receive an orientation about the upcoming trek."
+            },
+            {
+                "day": 2,
+                "activity": "Desert exploration",
+                "description": "Embark on a guided exploration of the desert, marveling at its unique flora, fauna, and geological formations."
+            },
+            {
+                "day": 3,
+                "activity": "Oasis discovery",
+                "description": "Discover hidden oases in the desert, providing moments of tranquility and natural beauty."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/Y0vjD3X/local-Festivals.jpg",
+        "tourType": "Cultural",
+        "tripTitle": "Local Festivals Experience",
+        "price": "$250",
+        "packageDetails": "Participate in vibrant local festivals, immersing yourself in the cultural celebrations and traditions of the region.",
+        "gallery": [
+            "https://i.ibb.co/wJwDm45/Local-Festivals1.jpg",
+            "https://i.ibb.co/MgLkTS4/Local-Festivals2.jpg",
+            "https://i.ibb.co/D5w0PgJ/Local-Festivals3.jpg",
+            "https://i.ibb.co/7bhkPyf/Local-Festivals4.jpg",
+            "https://i.ibb.co/s257rD2/Local-Festivals5.jpg"
+        ],
+        "aboutTheTour": "Embark on a cultural journey with our Local Festivals Experience. Immerse yourself in the lively atmosphere of local celebrations, where traditions come to life in vibrant colors and festive spirit.",
+        "tourPlan": [
+            {
+                "day": 1,
+                "activity": "Arrival and festival orientation",
+                "description": "Upon arrival, get acquainted with the local festival and receive an orientation about the upcoming cultural experiences."
+            },
+            {
+                "day": 2,
+                "activity": "Festival parade participation",
+                "description": "Take part in the lively festival parade, joining the locals in celebrating their cultural heritage."
+            },
+            {
+                "day": 3,
+                "activity": "Cultural workshops and performances",
+                "description": "Engage in cultural workshops and enjoy traditional performances, gaining insights into the region's artistic traditions."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/cTK47Qb/Gastronomic-Journey.jpg",
+        "tourType": "Cultural",
+        "tripTitle": "Gastronomic Journey",
+        "price": "$400",
+        "packageDetails": "Embark on a culinary adventure, savoring local delicacies and exploring the diverse flavors of the region.",
+        "gallery": [
+            "https://i.ibb.co/VwFF9BC/Gastronomic-Journey1.jpg",
+            "https://i.ibb.co/mzdQJ50/Gastronomic-Journey2.jpg",
+            "https://i.ibb.co/qg2Z78j/Gastronomic-Journey3.jpg",
+            "https://i.ibb.co/3MZF7dg/Gastronomic-Journey4.jpg",
+            "https://i.ibb.co/Bqbs8PM/Gastronomic-Journey5.jpg"
+        ],
+        "aboutTheTour": "Experience the rich tapestry of flavors with our Gastronomic Journey. This cultural tour is a feast for the senses, allowing you to indulge in the diverse culinary delights of the region.",
+        "tourPlan": [
+            {
+                "day": 1,
+                "activity": "Arrival and welcome feast",
+                "description": "Upon arrival, savor a welcome feast introducing you to the local gastronomic scene."
+            },
+            {
+                "day": 2,
+                "activity": "Culinary workshops and market visit",
+                "description": "Engage in culinary workshops and explore local markets, discovering fresh ingredients and cooking techniques."
+            },
+            {
+                "day": 3,
+                "activity": "Gourmet dining experience",
+                "description": "Enjoy a gourmet dining experience, sampling a curated selection of regional specialties."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/SszKMRC/Sunset-Retreat.jpg",
+        "tourType": "Beach",
+        "tripTitle": "Sunset Retreat",
+        "price": "600",
+        "packageDetails": "Unwind on golden shores, experience breathtaking sunsets, and indulge in water sports on this beach retreat.",
+        "gallery": [
+            "https://i.ibb.co/RSPL5Kn/Sunset-Retreat1.jpg",
+            "https://i.ibb.co/27JLSVr/Sunset-Retreat2.jpg",
+            "https://i.ibb.co/V955HLN/Sunset-Retreat3.jpg",
+            "https://i.ibb.co/N6mCvP5/Sunset-Retreat4.jpg",
+            "https://i.ibb.co/7CKFtmf/Sunset-Retreat5.jpg"
+        ],
+        "aboutTheTour": "Escape to a paradise of golden sands and stunning sunsets with our Sunset Retreat beach tour. This package offers the perfect blend of relaxation and adventure, allowing you to create lasting memories in a tropical haven.",
+        "tourPlan": [
+            {
+                "day": 1,
+                "activity": "Arrival and beachside welcome",
+                "description": "Arrive at your beachside accommodation and enjoy a warm welcome with stunning ocean views."
+            },
+            {
+                "day": 2,
+                "activity": "Water sports and beach relaxation",
+                "description": "Indulge in thrilling water sports activities and unwind with a day of beach relaxation."
+            },
+            {
+                "day": 3,
+                "activity": "Sunset cruise and seaside dining",
+                "description": "Experience a magical sunset cruise followed by a seaside dining experience."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/pLJdRFR/surfing.jpg",
+        "tourType": "Beach",
+        "tripTitle": "Surfing Adventure",
+        "price": "$550",
+        "packageDetails": "Ride the waves and experience the thrill of surfing in some of the world's most renowned beach destinations.",
+        "gallery": [
+            "https://i.ibb.co/Khvq7YG/Surfing-Adventure1.jpg",
+            "https://i.ibb.co/ZXpRsXm/Surfing-Adventure2.jpg",
+            "https://i.ibb.co/ZY4ZVjN/Surfing-Adventure3.jpg",
+            "https://i.ibb.co/4M93Rbv/Surfing-Adventure4.jpg",
+            "https://i.ibb.co/y4Wc75m/Surfing-Adventure5.jpg"
+        ],
+        "aboutTheTour": "Embark on an exhilarating Surfing Adventure where the rhythm of the waves becomes your guide. This package is designed for surf enthusiasts seeking the perfect wave in breathtaking beach destinations.",
+        "tourPlan": [
+            {
+                "day": 1,
+                "activity": "Arrival and surfing orientation",
+                "description": "Arrive at the surf destination and receive an orientation on surfing techniques and safety."
+            },
+            {
+                "day": 2,
+                "activity": "Full-day surfing experience",
+                "description": "Dive into a full-day surfing experience, catching waves and honing your surfing skills."
+            },
+            {
+                "day": 3,
+                "activity": "Surfing competitions and beachside relaxation",
+                "description": "Participate in friendly surfing competitions and unwind with beachside relaxation."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/W5VjnKj/Rainforest-Expedition.jpg",
+        "tourType": "Wildlife Safari",
+        "tripTitle": "Rainforest Expedition",
+        "price": "700",
+        "packageDetails": "Embark on a wildlife safari through lush rainforests, encountering diverse flora and fauna in their natural habitat.",
+        "gallery": [
+            "https://i.ibb.co/6H0JXHz/Rainforest1.jpg",
+            "https://i.ibb.co/6F1d90v/Rainforest2.jpg",
+            "https://i.ibb.co/GHq5RC2/Rainforest3.jpg",
+            "https://i.ibb.co/cXKsWj5/Rainforest4.jpg",
+            "https://i.ibb.co/NmtjhPp/Rainforest5.jpg"
+        ],
+        "aboutTheTour": "Immerse yourself in the heart of nature with our Rainforest Expedition. This package is tailored for wildlife enthusiasts, offering a deep exploration of vibrant rainforests and their incredible biodiversity.",
+        "tourPlan": [
+            {
+                "day": 1,
+                "activity": "Arrival and rainforest orientation",
+                "description": "Arrive and receive an orientation on rainforest ecosystems and the wildlife you'll encounter."
+            },
+            {
+                "day": 2,
+                "activity": "Guided trekking through the rainforest",
+                "description": "Embark on guided trekking, discovering hidden gems and encountering diverse wildlife."
+            },
+            {
+                "day": 3,
+                "activity": "Canopy walk and birdwatching",
+                "description": "Experience a canopy walk and engage in birdwatching, observing the rich avian life."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/gwJW9cy/Birdwatcher-s-Paradise.jpg",
+        "tourType": "Wildlife Safari",
+        "tripTitle": "Birdwatcher's Paradise",
+        "price": "500",
+        "packageDetails": "Explore bird-rich habitats and witness a myriad of species in this immersive birdwatching safari adventure.",
+        "gallery": [
+            "https://i.ibb.co/qdFq6p8/Birdwatcher-s-Paradise1.jpg",
+            "https://i.ibb.co/fQXSDbf/Birdwatcher-s-Paradise2.jpg",
+            "https://i.ibb.co/hsNZQM4/Birdwatcher-s-Paradise3.jpg",
+            "https://i.ibb.co/bbtvw9B/Birdwatcher-s-Paradise4.jpg",
+            "https://i.ibb.co/Rpj6LBJ/Birdwatcher-s-Paradise5.jpg"
+        ],
+        "aboutTheTour": "Embark on an unforgettable journey into the world of birds with our Birdwatcher's Paradise safari adventure. This package is designed for bird enthusiasts, providing an immersive experience in diverse habitats teeming with avian life.",
+        "tourPlan": [
+            {
+                "day": 1,
+                "activity": "Arrival and birdwatching orientation",
+                "description": "Arrive and receive an orientation on birdwatching techniques and the unique bird species you'll encounter."
+            },
+            {
+                "day": 2,
+                "activity": "Guided birdwatching excursions",
+                "description": "Embark on guided excursions to various bird-rich habitats, spotting rare and beautiful species."
+            },
+            {
+                "day": 3,
+                "activity": "Photography workshop",
+                "description": "Participate in a photography workshop, capturing stunning moments of birds in their natural habitat."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/NF2tbx1/Nightlife-Extravaganza.jpg",
+        "tourType": "City Exploration",
+        "tripTitle": "Nightlife Extravaganza",
+        "price": "500",
+        "packageDetails": "Experience the vibrant nightlife of iconic cities, from trendy bars to electrifying nightclubs and cultural events.",
+        "gallery": [
+            "https://i.ibb.co/3sdZPcH/Night-Life1.jpg",
+            "https://i.ibb.co/cg7pC5M/Night-Life2.jpg",
+            "https://i.ibb.co/2t84yQR/Night-Life3.jpg",
+            "https://i.ibb.co/K737GRY/Night-Life4.jpg",
+            "https://i.ibb.co/3hnkQH6/Night-Life5.jpg"
+        ],
+        "aboutTheTour": "Immerse yourself in the pulsating energy of city nightlife with our Nightlife Extravaganza package. This tour is designed for those who crave the excitement of city lights, music, and entertainment.",
+        "tourPlan": [
+            {
+                "day": 1,
+                "activity": "Arrival and city orientation",
+                "description": "Arrive and get acquainted with the city's layout and key nightlife districts."
+            },
+            {
+                "day": 2,
+                "activity": "Pub crawl and live music",
+                "description": "Embark on a lively pub crawl, experiencing the diversity of bars and enjoying live music performances."
+            },
+            {
+                "day": 3,
+                "activity": "Nightclub experience",
+                "description": "Dance the night away at renowned nightclubs, featuring top DJs and vibrant atmospheres."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/0tJzyY9/2150785272.jpg",
+        "tourType": "Cruise",
+        "tripTitle": "Northern Lights Expedition",
+        "price": "1,200",
+        "packageDetails": "Embark on a magical cruise to witness the spectacular Northern Lights, with luxurious accommodations and guided excursions.",
+        "gallery": [
+            "https://i.ibb.co/YkgBzYJ/Northern-Lights1.jpg",
+            "https://i.ibb.co/F6vfFxt/Northern-Lights2.jpg",
+            "https://i.ibb.co/KGNPKVs/Northern-Lights3.jpg",
+            "https://i.ibb.co/njk4P2T/Northern-Lights4.jpg",
+            "https://i.ibb.co/Hh9szHp/Northern-Lights5.jpg"
+        ],
+        "aboutTheTour": "Prepare for a mesmerizing journey through the Arctic on our Northern Lights Expedition cruise. Experience the enchanting beauty of the Aurora Borealis from the comfort of a luxurious cruise ship.",
+        "tourPlan": [
+            {
+                "day": 1,
+                "activity": "Boarding and orientation",
+                "description": "Board the cruise ship and attend an orientation session about the upcoming expedition."
+            },
+            {
+                "day": 2,
+                "activity": "Coastal exploration",
+                "description": "Embark on a coastal exploration, enjoying scenic views and wildlife encounters."
+            },
+            {
+                "day": 3,
+                "activity": "Northern Lights viewing",
+                "description": "Spend the night marveling at the Northern Lights, with expert-guided excursions and viewing from the ship's deck."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/Ch8rnkx/side-view-breakfast-with-baked-grape-omelette-white-plate-balc-ony-by-sea.jpg",
+        "tourType": "Cruise",
+        "tripTitle": "Mediterranean Delight Cruise",
+        "price": "900",
+        "packageDetails": "Sail through the enchanting Mediterranean, exploring historic ports and enjoying the Mediterranean cuisine and culture.",
+        "gallery": [
+            "https://i.ibb.co/JzPSx8h/Mediterranean-Delight-Cruise1.jpg",
+            "https://i.ibb.co/zQRZsV4/Mediterranean-Delight-Cruise2.jpg",
+            "https://i.ibb.co/pWDG43p/Mediterranean-Delight-Cruise3.jpg",
+            "https://i.ibb.co/XSTc9FJ/Mediterranean-Delight-Cruise4.jpg",
+            "https://i.ibb.co/GnzBTGr/Mediterranean-Delight-Cruise5.jpg"
+        ],
+        "aboutTheTour": "Embark on a luxurious Mediterranean adventure with our Delight Cruise. Indulge in the beauty of historic ports, exquisite cuisine, and the rich culture of the Mediterranean.",
+        "tourPlan": [
+            {
+                "day": 1,
+                "activity": "Boarding and departure",
+                "description": "Board the cruise ship and set sail on your Mediterranean journey."
+            },
+            {
+                "day": 2,
+                "activity": "Port exploration",
+                "description": "Explore historic ports, discovering local landmarks and enjoying cultural experiences."
+            },
+            {
+                "day": 3,
+                "activity": "Culinary delights",
+                "description": "Savor the Mediterranean cuisine with onboard gourmet dining and local food experiences."
+            }
+        ]
+    }
+]

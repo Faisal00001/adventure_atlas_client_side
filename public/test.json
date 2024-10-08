@@ -1,0 +1,32 @@
+{
+    "image": "https://i.ibb.co/abc123/summer.jpg",
+    "tourType": "Mountain",
+    "tripTitle": "Serene Mountain Escape",
+    "price": "900",
+    "packageDetails": "Immerse yourself in the tranquility of mountain landscapes. This package offers a perfect blend of serenity and adventure, with activities such as hiking, mountain biking, and star-gazing. Stay in cozy cabins, savor local cuisine, and breathe in the fresh mountain air. Discover the magic of the mountains and create lasting memories.",
+    "gallery": [
+        "https://i.ibb.co/xyz456/Mountain-Escape1.jpg",
+        "https://i.ibb.co/def789/Mountain-Escape2.jpg",
+        "https://i.ibb.co/123abc/Mountain-Escape3.jpg",
+        "https://i.ibb.co/456def/Mountain-Escape4.jpg",
+        "https://i.ibb.co/789ghi/Mountain-Escape5.jpg"
+    ],
+    "aboutTheTour": "Embark on a serene Mountain Escape, where each day unfolds with the beauty of nature. This mountain retreat offers a haven of peace with comfortable accommodations and a range of exciting activities.",
+    "tourPlan": [
+        {
+            "day": 1,
+            "activity": "Arrival and nature walk",
+            "description": "Upon arrival, take a refreshing nature walk to explore the surroundings and get acquainted with the breathtaking views."
+        },
+        {
+            "day": 2,
+            "activity": "Hiking adventure",
+            "description": "Embark on a thrilling hiking adventure to discover hidden trails and enjoy panoramic views of the mountainous landscape."
+        },
+        {
+            "day": 3,
+            "activity": "Stargazing night",
+            "description": "Spend a mesmerizing night under the stars, experiencing the magic of the night sky in the heart of the mountains."
+        }
+    ]
+}
